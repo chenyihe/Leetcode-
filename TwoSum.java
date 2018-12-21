@@ -24,8 +24,7 @@ class Solution {
     }
 }
 
-
-/*暴力解决*/
+/*嵌套for循环*/
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         
